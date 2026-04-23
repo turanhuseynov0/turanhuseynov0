@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
 ### 🛠️ Tech Stack & Tools
 
 
-<h2 align="center">Programming & Development</h2>
+<p align="center">Programming & Development</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h2 align="center">Design & UI/UX</h2>
+<p align="center">Design & UI/UX</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />

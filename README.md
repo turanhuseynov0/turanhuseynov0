@@ -45,9 +45,14 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TuranHuseynov0&theme=dark&hide_border=false" width="75%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TuranHuseynov0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="75%" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=TuranHuseynov0&theme=dark&hide_border=false" width="400px" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TuranHuseynov0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
+      </td>
+    </tr>
+  </table>
 </p>

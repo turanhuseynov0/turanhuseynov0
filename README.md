@@ -41,8 +41,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
 - **Email:** [turanhuseynov006@gmail.com](mailto:your.turanhuseynov006@gmail.com)
 - **LinkedIn:** [turanhuseynov](www.linkedin.com/in/turanhuseynov)
 - **Portfolio / Behance:** [turanhuseynov00](https://www.behance.net/turanhuseynov00)
-- [![](https://komarev.com/ghpvc/?username=TuranHuseynov0&icon=0&color=3)](https://visitcount.itsvg.in)
-
+  
 ---
 
 ### 📊 GitHub Stats

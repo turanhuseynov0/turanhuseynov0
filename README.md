@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
 ### 🛠️ Tech Stack & Tools
 
 **Programming & Development:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
 </p>
 
 **Design & UI/UX:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -48,3 +48,11 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
 
 ![](https://streak-stats.demolab.com/?user=TuranHuseynov0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TuranHuseynov0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TuranHuseynov0&theme=dark&hide_border=false" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TuranHuseynov0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="90%" />
+</p>

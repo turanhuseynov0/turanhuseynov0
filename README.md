@@ -45,13 +45,13 @@ Welcome to my GitHub profile! I'm a developer passionate about building robust b
 ---
 
 <p align="center">
-  <table align="center" style="border: none; border-collapse: collapse;">
+  <table align="center" border="0">
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://streak-stats.demolab.com/?user=TuranHuseynov0&theme=dark&hide_border=false" width="400" height="200" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=TuranHuseynov0&show_icons=true&theme=dark" width="400" height="200" />
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TuranHuseynov0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="200" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuranHuseynov0&theme=dark&layout=compact" width="400" height="200" />
       </td>
     </tr>
   </table>
